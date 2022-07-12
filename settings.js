@@ -64,12 +64,13 @@ global.location = "Morocco, Tetouan, Tikniya" //ur location
 global.owner = ['212705570169']
 global.ownertag = '212705570169' //ur tag number
 global.botname = 'Namx-V4' //ur bot name
-global.linkz = "https://youtu.be/channel/GYD0_" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/channel/GYD0_" //ur website to be displayed
-global.botscript = 'https://github.co' //script link
+global.linkz = "https://m.youtube.com/channel/UCiJ6nfZYv8rmsT56NanZjPg" //your theme url which will be displayed on whatsapp
+global.websitex = "https://m.youtube.com/channel/UCiJ6nfZYv8rmsT56NanZjPg" //ur website to be displayed
+global.botscript = 'https://t.m/a5xev' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.packname = "نصيحة لوجه الله 
+لا تترك صلاتك 💙💙 مهما كانت ذنوبك " //ur sticker watermark packname
 global.author = "MY INSTA: @gyd0_ • 💚🤍 ❤️💙" //ur sticker watermark author
 
 //Bot theme media
@@ -102,7 +103,7 @@ global.ntilink = []
 //omther
 global.sessionName = 'session'
 global.antitags = true
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','.']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
